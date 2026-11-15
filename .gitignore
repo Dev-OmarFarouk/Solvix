@@ -1,0 +1,11 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# local scratch
+.work/
+.freebuff/
+
+# local tooling (ffmpeg build)
+tools/
